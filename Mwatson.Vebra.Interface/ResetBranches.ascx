@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ResetBranches.ascx.cs" Inherits="MWatson.Vebra.Interface.ResetBranches" %>
+<p><asp:Button ID="BranchReset" runat="server" Text="Reset" OnClick="BranchReset_Click" /></p>
